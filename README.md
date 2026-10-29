@@ -3,7 +3,7 @@
 CampusFix is a campus maintenance reporting app built for the LION Code Challenge 2026 at Penn State Abington. Students, faculty and staff can report broken lights, leaks, jammed doors and other facility issues, see if someone already reported it, and follow the issue until it is fixed.
 
 ## Team members
-Chelsie Banton
+Chelsie Banton, Xiomara Mohamed, Zainab Afridi 
 
 ## Features built
 Core features
